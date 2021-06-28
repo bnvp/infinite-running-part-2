@@ -1,1 +1,1 @@
-# infinite-running-part-2
+# PRO-C37-INFINITE-RUNNER-GAME
